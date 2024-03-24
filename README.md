@@ -24,7 +24,7 @@
 
 6. Generate CRUD GoLang code using SQLC.
 
-    - Install SQLC and initialize it using ```sqlc init```
+    - Install SQLC and initialize it using `sqlc init`
 
     - From https://github.com/sqlc-dev/sqlc/tree/v1.4.0 copy the settings configuration available in the "Settings" section and then modfiy it according to your need.
 
